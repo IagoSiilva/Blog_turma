@@ -1,0 +1,27 @@
+body{         
+    background-color: #191825;
+}
+div a{
+    color: #E384FF;
+}
+nav.navbar{
+    background-color: #865DFF;
+}
+a img{
+    width: 40px;
+    height: 40px;
+}
+div .posts{
+    margin-top: 40px;
+}
+div .fconosco{
+    margin-top: 80px;
+}
+div ion-icon{
+    height: 40px;
+    width: 40px;
+    margin-top: 50px;
+}
+hr{
+    color: #ccc;
+}
